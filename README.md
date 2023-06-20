@@ -26,7 +26,7 @@ Passo 4: Calculando e inserindo a coluna do valor da diferença entre corridas m
 
 Passo 5: Descobrindo a variável RS, número de corridas que o time deverá marcar.
 
-Passo 6: Descobrindo a variável RA, número máximo que o time poderá receber.
+Passo 6: Descobrindo a variável RA, número máximo de corridas que o time poderá receber.
 
 Passo 7: Calculando a quantidade de vitórias necessárias para o time chegar aos Playoffs.
 
