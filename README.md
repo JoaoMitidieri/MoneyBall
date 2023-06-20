@@ -28,7 +28,7 @@ Passo 5: Descobrindo a variável RS, número de corridas que o time deverá marc
 
 Passo 6: Descobrindo a variável RA, número máximo de corridas que o time poderá receber.
 
-Passo 7: Calculando a quantidade de vitórias necessárias para o time chegar aos Playoffs.
+Passo 7: Calculando a quantidade de Vitórias necessárias para o time chegar aos Playoffs.
 
 # Conclusão:
 A quantidade de vitórias que serão necessárias para ir aos Playoffs que é de 102 vitórias, então os valores de RS e RA estão coerrentes pois o valor está muito próximo da média de vitórias dos times que foram qualificados para os Playoffs.
