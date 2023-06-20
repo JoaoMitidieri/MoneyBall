@@ -1,4 +1,4 @@
-# MoneyBall 
+# MoneyBall - O Homem que Mudou o Jogo
 
 ## Contexto:
 Um dos times mais pobres no Baseball na época, com o salário 4 vezes menor em comparação com os times ricos.
@@ -9,7 +9,6 @@ Tiveram o Budget cortado em 1995, mas ainda conseguiam ganhar jogos e indo para 
 
  Com uma abordagem diferente, Oakland A's selecionou jogadores com base nas estatísticas, não no modo de jogar.
 
-Tradicional jeito para selecionar jogadores era através de olheiros.
 
 ## Problema de Negócio:
 Descobrir como chegar os Playoffs, utilizando esse DataSet com algumas informações que foram usadas pelo Oakland A´s na época, e nisso entenderemos quais foram os métodos utilizados pelo time.
