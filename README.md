@@ -1,4 +1,4 @@
-# MoneyBall - O Homem que Mudou o Jogo
+# MoneyBall - O Homem que Mudou o Jogo:
 
 ## Contexto:
 Um dos times mais pobres no Baseball na época, com o salário 4 vezes menor em comparação com os times ricos.
