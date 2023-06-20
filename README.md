@@ -11,7 +11,7 @@ Tiveram o Budget cortado em 1995, mas ainda conseguiam ganhar jogos e indo para 
 
 
 ## Problema de Negócio:
-Descobrir como chegar os Playoffs, utilizando esse DataSet com algumas informações que foram usadas pelo Oakland A´s na época, e nisso entenderemos quais foram os métodos utilizados pelo time.
+Descobrir como chegar os Playoffs, utilizando esse DataSet com informações que foram usadas pelo Oakland A´s, e nisso entenderemos quais foram os métodos utilizados pelo time na época.
 
 Fonte dos Dados: https://www.kaggle.com/datasets/wduckett/moneyball-mlb-stats-19622012
 
